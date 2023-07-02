@@ -1,0 +1,31 @@
+*{
+margin: 0;
+padding: 0;
+border: 0;
+}
+body{
+    background: url(../img/Viego-splash.jpg);
+    background-repeat: no-repeat;
+    background-color: #0d0d0d;
+    margin-top: 39em
+}
+.blocktext{
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*line-height: 90em;*/
